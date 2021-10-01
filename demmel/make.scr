@@ -1,0 +1,2 @@
+#!/bin/sh
+g++ -I/usr/include -I. socket.cpp client.cpp serial.cpp demmel.cpp -o demmel
